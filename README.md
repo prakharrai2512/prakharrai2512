@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently work with **Python, C++ and JS**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **CV and Time series forecasting**
 
 - 👯 Visit my website at [https://prakharrai2512.github.io/](https://prakharrai2512.github.io/)
 
